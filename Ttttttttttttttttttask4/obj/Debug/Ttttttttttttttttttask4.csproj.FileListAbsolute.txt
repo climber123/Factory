@@ -1,0 +1,24 @@
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\bin\Debug\Ttttttttttttttttttask4.exe.config
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\bin\Debug\Ttttttttttttttttttask4.exe
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\bin\Debug\Ttttttttttttttttttask4.pdb
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\bin\Debug\Solution.dll
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\bin\Debug\Solution.pdb
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.csprojResolveAssemblyReference.cache
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.Form1.resources
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.Properties.Resources.resources
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.csproj.GenerateResource.Cache
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.csproj.CoreCompileInputs.cache
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.exe
+D:\2 курс\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.pdb
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\bin\Debug\Ttttttttttttttttttask4.exe.config
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\bin\Debug\Ttttttttttttttttttask4.exe
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\bin\Debug\Ttttttttttttttttttask4.pdb
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\bin\Debug\Solution.dll
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\bin\Debug\Solution.pdb
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.csprojResolveAssemblyReference.cache
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.Form1.resources
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.Properties.Resources.resources
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.csproj.GenerateResource.Cache
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.csproj.CoreCompileInputs.cache
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.exe
+D:\2 курс\1 семестр\ЯиСП\Ttttttttttttttttttask4\Ttttttttttttttttttask4\obj\Debug\Ttttttttttttttttttask4.pdb
